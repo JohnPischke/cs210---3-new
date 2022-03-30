@@ -1,3 +1,14 @@
+'''
+Authors:
+Logan Crossley
+John Pischke
+Seth Whetten
+Dawson Packer 
+
+Description:
+This is our test class. This was created so we could make sure everything works correctly.
+'''
+
 graphic_parts = [
     '  ___\n /___\\\n \\   /\n  \\ /\n   0\n',
     '     \n /___\\\n \\   /\n  \\ /\n   0\n',

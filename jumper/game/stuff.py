@@ -1,3 +1,13 @@
+'''
+Authors:
+Logan Crossley
+John Pischke
+Seth Whetten
+Dawson Packer 
+
+Description:
+This is our stuff class. It scans for repeats of letters in the guessed word.
+'''
 word = 'puppy'
 guess = 'p'
 

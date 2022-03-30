@@ -10,5 +10,6 @@ This is our terminal class. The terminal is only meant to print what is sent to 
 '''
 class Terminal:
     
+    #prints message to terminal 
     def print_to_terminal(self, msg):
         print(msg)
